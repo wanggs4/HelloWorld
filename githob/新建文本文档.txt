@@ -1,2 +1,0 @@
-httpsµÄµØÖ·£ºhttps://github.com/wanggs4/wanggs4.git
-sshµØÖ·£ºgit@github.com:wanggs4/wanggs4.git
